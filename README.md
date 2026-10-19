@@ -14,19 +14,36 @@ Here are some ideas to get you started:
  😄 Pronouns: ...
  ⚡ Fun fact: ...
 -->
-# Olá, eu sou o Ricardo Cruz ! 👋
+# Ricardo Cruz | Senior Data & AI Engineer
 
-### 📊 Analista e Engenheiro de Dados
-Especialista em Analise e Engenharia de Dados com experiência em projetar e implementar soluções de dados escaláveis.
+👋 Olá! Sou Engenheiro de Dados Sênior e Arquiteto de Soluções de IA com mais de 10 anos de experiência construindo pipelines de dados de alta disponibilidade, arquiteturas analíticas e sistemas de IA Generativa prontos para produção.
 
-Experiência na construção de pipelines de dados, data warehouses e lakehouses, com foco em qualidade de dados, observabilidade e Visualização de Dados.
+---
 
-Sólida experiência prática com SQL, PL/SQL, Python, plataformas em nuvem e ferramentas modernas de código aberto.
+### 🧰 Stacks & Tecnologias
+* **AI & LLM Systems:** Claude API, ReAct Agents, RAG Híbrido (RRF), LLM-as-a-Judge, LangChain/LangGraph, Flowise, Prompt Caching.
+* **Data Engineering:** Python, SQL, Google BigQuery, BigQuery GIS, ETL/ELT, Governança de Dados, Oracle, AWS, Azure Synapse.
+* **Machine Learning & Stats:** Modelagem Estatística, Scikit-Learn, Pytest, Data Mining, Pandas/Numpy.
 
-- 🛠 **Tecnologias:** Python (Pandas, Numpy), SQL, Power BI, ETL/ELT.
-- 📈 **Interesses:** Analista de dados, Data Engineering, Machine Learning e Análise Estatística.
-- 🏛 **Atuação:** Gestão Governança e Transparência em Clubes (Praia Clube São Francisco).
+---
 
+### 🚀 Projetos de Destaque
+
+#### 🤖 [PromptForge](https://github.com/rcruzjs/prompt_forge)
+Plataforma e framework modular em Python para engenharia de prompts, orquestração de **AI Agents** e testes automatizados sobre a API do Claude.
+* **Highlights:** Implementação de ReAct loops, RAG híbrido com Reciprocal Rank Fusion (RRF) e avaliação de saídas via **LLM-as-Judge** com controle de custos via prompt caching.
+* **Tech Stack:** Python 3.12+, Anthropic API, Pytest, LangChain.
+
+#### 📍 [Rio Fast Food Market Analysis](https://github.com/rcruzjs/rio_fast_food_market_analysis)
+Pipeline completo de engenharia de dados e inteligência de mercado focado no setor de alimentação rápida no Rio de Janeiro e Niterói.
+* **Highlights:** Scraping e ingestão de dados públicos (CNPJ/Jucerja), enriquecimento de bases e análise geoespacial de saturação de mercado com BigQuery GIS.
+* **Tech Stack:** Google BigQuery, BigQuery GIS, Python, Pandas, Web Scraping.
+
+---
+
+📫 **Como me encontrar:**
+* **LinkedIn:** [linkedin.com/in/ricardojscruz](https://www.linkedin.com/in/ricardojscruz)
+* **Localização:** Rio de Janeiro / Niterói, Brasil
 ---
 
 ### 📊 Curriculo no GitHub
