@@ -29,10 +29,9 @@ Here are some ideas to get you started:
 
 ### 🚀 Projetos de Destaque
 
-#### 🤖 [PromptForge](https://github.com/rcruzjs/prompt_forge)
-Plataforma e framework modular em Python para engenharia de prompts, orquestração de **AI Agents** e testes automatizados sobre a API do Claude.
-* **Highlights:** Implementação de ReAct loops, RAG híbrido com Reciprocal Rank Fusion (RRF) e avaliação de saídas via **LLM-as-Judge** com controle de custos via prompt caching.
-* **Tech Stack:** Python 3.12+, Anthropic API, Pytest, LangChain.
+#### 🤖 Arquitetura RAG & Multi-Agents (LangGraph)
+Desenvolvimento e orquestração de **Agentes de IA** e sistemas de RAG híbrido com suporte a múltiplos agentes, ReAct loops e avaliação automatizada de saídas em LLMs.
+* **Tech Stack:** Python, LangGraph, Docker, Redis, RAG, Streamlit, APIs LLM.
 
 #### 📍 [Rio Fast Food Market Analysis](https://github.com/rcruzjs/rio_fast_food_market_analysis)
 Pipeline completo de engenharia de dados e inteligência de mercado focado no setor de alimentação rápida no Rio de Janeiro e Niterói.
